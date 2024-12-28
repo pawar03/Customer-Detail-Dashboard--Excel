@@ -62,7 +62,7 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 - **Power Query**: Expertise in using Power Query for data cleaning and transformation.
 - **Power Pivot**: Skilled in creating data models and establishing relationships between tables.
 - **DAX**: Proficient in writing DAX formulas for calculated fields and metrics.
-- 
+  
 ## Soft Skills
 - **Attention to Detail**: Ensured data accuracy and consistency throughout the project.
 - **Problem-Solving**: Addressed and resolved data-related issues effectively.
