@@ -69,7 +69,6 @@ The dataset includes transactional data from 2020 to 2022, imported and transfor
 - **Analytical Thinking**: Analyzed complex data to derive meaningful insights.
 - **Communication**: Clearly communicated findings and insights through visualizations.
 
-
-## Conclusion
-This project showcases the effective use of Excel for creating a detailed and interactive dashboard that provides valuable insights into customer behavior and sales performance. The skills and techniques demonstrated in this project can be applied to a wide range of data analysis and visualization tasks.
+## Let’s Connect!
+I’m passionate about creating intuitive dashboards and making data accessible for everyone. Let’s connect on [LinkedIn](https://www.linkedin.com/in/pooja-pawar-92086217a) to discuss all things Excel, dashboards, and data insights!
 
